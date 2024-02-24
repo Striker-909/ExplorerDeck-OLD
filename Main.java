@@ -570,6 +570,6 @@ class Main {
     } else {
       System.out.println("Congrats, you " + win +  " island in " + day + " days. You also developed a whole world. Do what you will with this new existance.");
     }
-    System.out.println("Story, Code, Game, and Concept by Zachary Kraut. This is my intellectual property, please do not copy or reproduce.");
+    System.out.println("Story, Code, Game, and Concept by Striker-909. This is my intellectual property, please do not copy or reproduce.");
   }
 }
